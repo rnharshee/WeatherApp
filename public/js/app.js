@@ -1,7 +1,3 @@
-console.log('client side app js')
-
-
-
 const weatherForm =document.querySelector('form')
 const serachElement=document.querySelector('input')
 const messageOne=document.querySelector('#msg-1')
